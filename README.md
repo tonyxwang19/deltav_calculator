@@ -31,16 +31,11 @@ A simple desktop application built with Python and Tkinter to calculate delta-v 
    venv\Scripts\activate     # Windows
    ```
 
-3. Install dependencies (none beyond the standard library):
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Run the application:
    ```bash
-   python delta_v_gui.py
+   python main.py
    ```
 
 2. In the GUI, enter the following parameters:
@@ -80,4 +75,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 *Developed by Tony Xining Wang*
-![image](https://github.com/user-attachments/assets/19670443-9d5b-4ef3-8681-1fd4baf7db3c)
